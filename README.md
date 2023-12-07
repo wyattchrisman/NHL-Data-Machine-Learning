@@ -5,9 +5,9 @@
 * Reference
   * https://www.youtube.com/watch?v=7eh4d6sabA0 
 
-* In CSV File
-  * Remove goalies from csv
-  * Split to x and y
-  * Create train and test
 * In Code
-  * 
+    * Create x and y - may be able to use reference video
+        * Split into train and test
+* In report
+    * Begin report with what we have - what we will do
+    * https://jnear.github.io/cs3110-data-privacy/projects
